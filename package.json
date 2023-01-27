@@ -4,7 +4,8 @@
   "description": "Primer proyecto con node js en el curso",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "type": "module",
   "author": "Fernando de la Cruz Ramos",
